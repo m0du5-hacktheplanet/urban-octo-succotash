@@ -1,22 +1,17 @@
 Hack The Planet
 =====================================================
 
-### Photon Mapper
+### m0du5
 
-This is a photon mapper built without substantial use of graphics libraries.
+I am m0du5. Welcome my friends, there is nothing important here, only some ramblings and links to my video channels. Lbry & YouTube.
 
-- Reads and parses complex scene files into a scene including lights, objects, shapes, materials, and fixed and dynamic transformations.
-- Distributes the scene to multple processes.
-- Throws thousand of photons into the scene from the lights.
-- Depending on the result of a photon roullete process, photons can bounce off objects (being adjusted for the BRDF) and possibly land on other objects, or they can be absorbed. (i.e. each time a photon hits a surface, it is stored within the photon map and Russian roulette is used to determine if the photon is reflected, with the power of the reflected photon being computed based on the BRDF of the adjusted surface)
-- Gathers the resulting photons' bounce locations (if not absorbed).
-- Sorts the photons into a 3-dimensional kd-Tree.
-- Distributes the kd-Tree to all processes.
-- The first step of a ray tracing process is used: rays are shot from the camera into the scene and, if an object is hit, luminance information for that spot on the object is calculated from the photon map using the nearest N photons and assuming a 2-dimensional surface.
-
-- The Message Passing Interface (MPI) is used for interprocess communication.
-- GLUT is used to write rendered file to the screen, though a simple putPixel() from any library would work.
-- ImageMagick++ is used to write rendered files to .jpg files.
+- I create content related to cyber security specifically ethical hacking.
+- You can find my content on Lbry & YouTube. Refer to the links below.
+- Use my content / videos as you wish but give me the credits.
+- Do not use the knowledge you gained from watching my videos to perform any illegal activities.
+- Why Lbry & YouTube?. Well YouTube removed some of my content. These videos can be found @ Lbry!
+- Share, Like, Follow & Subscribe so i can make more videos.
+- Finally, thank you for your support.
 
 ### Example
 
