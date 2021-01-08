@@ -18,4 +18,4 @@ I am m0du5. Welcome my friends, there is nothing important here, only some rambl
 Links to my videos for Youtube and Lbry.
 
 `YouTube: https://www.youtube.com/channel/UChiQbAqdmxBWVJZvfXKCq-g`
-`LBRY: https://odysee.com/@hacktheplanet:5`
+`LBRY: https://odysee.com/@hacktheplanet:5?r=6XduXdyyue5D8wHZ5uMHk6Tq9qkeNB3K`
