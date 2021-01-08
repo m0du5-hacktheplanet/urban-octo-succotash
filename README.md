@@ -15,6 +15,7 @@ I am m0du5. Welcome my friends, there is nothing important here, only some rambl
 
 ### Channels
 
-Links to my videos on Youtube and Lbry.
+Links to my videos for Youtube and Lbry.
 
 `YouTube: https://www.youtube.com/channel/UChiQbAqdmxBWVJZvfXKCq-g`
+`LBRY: https://odysee.com/@hacktheplanet:5`
