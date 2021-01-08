@@ -13,11 +13,8 @@ I am m0du5. Welcome my friends, there is nothing important here, only some rambl
 - Share, Like, Follow & Subscribe so i can make more videos.
 - Finally, thank you for your support.
 
-### Example
+### Channels
 
-*note: If your browser or the markdown viewing engine for this repository viewer does not support the HTML5 video tag, a link to the video will be provided instead. Github has difficulty showing video.
+Links to my videos on Youtube and Lbry.
 
-<video controls>
-  <source src="https://kingcountybusinesslaw.com/misc/largescene5-n56k-N42-d0.05-D0.2-mpi4.ogv" type="video/ogg">
-<a href="https://kingcountybusinesslaw.com/misc/largescene5-n56k-N42-d0.05-D0.2-mpi4.ogv">[Link to Video]</a>
-</video> 
+`YouTube: https://www.youtube.com/channel/UChiQbAqdmxBWVJZvfXKCq-g`
